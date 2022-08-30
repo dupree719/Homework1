@@ -1,0 +1,19 @@
+These are some commands I learned and what they do
+mkdir = make directory/creates a new directory
+mv = move/rename an existing directory
+ls = list items/contents
+touch = create a new file
+cat = reads and prints out file contents
+cd . . = moves back a directory
+cd = jumps to home directory
+vi "filename.extension" = creates a virtual environment
+cp "file.extension" = copies file
+rm "file" = deletes file
+pwd = prints working directories
+i = insert into virtual environment
+:wq = Exits virtual environment
+clear = moves command up and clears terminal
+git init = initiates repository
+git commit = commits to GitHub
+git status = reports current status of a file
+cd "directory name" = jumps to specific directory
